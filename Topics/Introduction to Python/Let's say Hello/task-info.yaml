@@ -1,0 +1,10 @@
+type: code
+custom_name: Let's say Hello!
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47329#comment
+status: Unchecked
+record: -1
+submission_language: python3

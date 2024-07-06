@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Calling same function multiple times
+  - text: Forgetting to put semicolon (;) at the end of each line
+  - text: Over-indenting your code
+  - text: Forgetting to close parentheses
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47350#comment
+status: Unchecked
+record: -1
+local_check: false

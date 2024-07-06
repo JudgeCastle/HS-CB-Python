@@ -1,0 +1,26 @@
+type: matching
+captions:
+  - "[]"
+  - "[\"brouhaha\"]"
+  - list("canoodle")
+  - "[1, [2, 3], [4, 5], 6]"
+  - "[\"1\", \"2\", \"3\", \"5\", \"8\", \"13\"]"
+options:
+  - 8
+  - 1
+  - 6
+  - 4
+  - 0
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5981#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4

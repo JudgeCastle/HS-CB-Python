@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: ()
+  - text: list()
+  - text: "list[123]"
+  - text: "[\"1\", \"2\", \"3\"]"
+  - text: "[7, \"wonders\"]"
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5980#comment
+status: Solved
+record: -1
+local_check: false
